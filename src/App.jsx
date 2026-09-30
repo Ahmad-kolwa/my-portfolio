@@ -203,7 +203,7 @@ const mobileProjects = [
           Interested in working together or discussing a project?
         </p>
 
-        <a href="mailto:your-email@example.com" className="btn primary">
+        <a href="mailto:jumahmad2000@gmail.com" className="btn primary">
           Send Me an Email
         </a>
       </section>
